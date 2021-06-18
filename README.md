@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, I'm Pooja Mangal! 👋
 
 - 🔭 I’m currently working on MERN Stack & Python Development
 - 🌱 I’m currently learning React JS
