@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for help with **OpenSource Projects**
 
-- 📫 How to reach me **https://www.linkedin.com/in/pooja-mangal-031203180/**
+- 📫 How to reach me **https://www.linkedin.com/in/poojamangal15/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pooja-mangal-031203180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-mangal-031203180" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/poojamangal15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-mangal-031203180" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/poojamangal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="poojamangal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/poojamangal15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojamangal15" height="30" width="40" /></a>
 </p>
