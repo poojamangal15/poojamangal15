@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on researching and implementing advanced machine learning and data-driven methods, with a focus on causal analysis, optimization techniques, and adaptive neural networks that dynamically adjust to varying resource constraints.<br>🤝 I’m looking for a job in artificial intelligence, machine learning engineering, or data science roles<br><br><br><br><br><br><br>
+🔭 I’m currently working on researching and implementing advanced machine learning and data-driven methods, with a focus on causal analysis, optimization techniques, and adaptive neural networks that dynamically adjust to varying resource constraints.<br>🤝 I’m looking for a job in artificial intelligence, machine learning engineering, or data science roles<br><br>
 
 
 ## 🌐 Socials:
